@@ -1,0 +1,11 @@
+.sbg {
+
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(images/sbgh.png);
+    background-position: center;
+    background-size: cover;
+    padding: 10px 10%;
+    margin: -10px;  
+    overflow: hidden;
+}
